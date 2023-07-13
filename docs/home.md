@@ -8,7 +8,8 @@ Lite bricked is my own term for a Wii U that is bricked due to damaged/missing t
 
 ### IMPORTANT NOTE
 This guide requires that your System Settings and System Updater apps are intact and usable. It cannot fix hardware failure (such as a dead Hynix MLC.) For that, I recommend you check out [Lazr's guide](https://lazr1026.github.io/unbrick/#/) on doing a full unbrick if this does not work for you.
-You should have a NAND backup, including MLC. If you don't, make one 
+Preferably, you should have a full MLC included backup made while the console was still working. This can be used to restore the System Settings and System Updater apps if needed.
+If you don't have one, you should make one **right now** (this will need access to the Payloadloader/HBL so if you don't have such access you'll have to do without.
 
 ### Disclaimer:
 I am not responsible if you further damage your Wii U following this guide. Be sure to follow all instructions EXACTLY and to read CAREFULLY. By using this guide you agree that I am NOT responsible for any further damages done to your Wii U with this guide.
