@@ -1,6 +1,6 @@
 # dardelhmb.github.io
 Github pages for DardelHMB
 
-[Servere Wii U errors](https://dardelhmb.github.io/wiiuerrorinfo/)
+[Severe Wii U errors](https://dardelhmb.github.io/wiiuerrorinfo/)
 
-[UDPIH Troubleshooting (incomplete)](https://dardelhmb.github.io/udpih-troubleshooting-guide/#/)
+[UDPIH Troubleshooting (Nearly complete)](https://dardelhmb.github.io/udpih-troubleshooting-guide/#/)
