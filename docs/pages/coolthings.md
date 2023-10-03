@@ -1,6 +1,6 @@
 # Cool things
 
-[![Linux Mint](/assets/linuxmint.png)](https://linuxmint.com/)   [![Debian](/assets/debianbutton.gif)](https://debian.org) [![Mozilla](/assets/firefoxget.gif)](https://www.mozilla.org/en-US/firefox/new/)
+[![GNU](/assets/gnubutton.png)](https://www.gnu.org/)   [![Debian](/assets/debianbutton.gif)](https://debian.org) [![Mozilla](/assets/firefoxget.gif)](https://www.mozilla.org/en-US/firefox/new/)
 
 
 
