@@ -1,4 +1,8 @@
-[UDPIH Troubleshooting](https://dardelhmb.github.io/udpih-troubleshooting-guide/#/)
-[Severe Wii U errors](https://dardelhmb.github.io/wiiuerrorinfo/#/)
+# My Guides
 
-These guides need a revamp, too. I'm probably going to use the same docsify theme for them
+
+[UDPIH Troubleshooting](/docs/guides/UDPIHTroubleshooting/docs/home.md)
+
+[Severe Wii U errors](/docs/guides/wiiuerrorinfo/docs/home.md)
+
+## Guides have been redirected here. Please inform me if anything broke.

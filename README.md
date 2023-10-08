@@ -1,14 +1,9 @@
-# Borked.
-This page is broken at the moment. I'm going to test it locally, so for now, I'm setting the home page to just this README.md.
+# dardelhmb.github.io
 
-If you have any idea how to fix it PLEASE open a Pull Request, I would greatly appreciate it.
+This is my github page, hi :)
 
+No clue what I will use this main page for other than an index for my two guides.
+But I'm thinking of something! Before this, the page was just a README.md
+(my guides were not)
 
-
-
-
-Github pages for DardelHMB
-
-[Severe Wii U errors](https://dardelhmb.github.io/wiiuerrorinfo/)
-
-[UDPIH Troubleshooting (Nearly complete)](https://dardelhmb.github.io/udpih-troubleshooting-guide/#/)
+![](assets/dardelbig.png)
