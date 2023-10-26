@@ -1,5 +1,3 @@
-[My guides](/docs/pages/myguides.md)
+- [Useful goods](/docs/pages/useful.md)
 
-[What is this website?](/docs/pages/what.md)
-
-[Cool things](/docs/pages/coolthings.md)
+- [Posts](/docs/pages/posts.md)
