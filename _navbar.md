@@ -1,3 +1,7 @@
-[Home](README.md)
+- [Home](/)
 
-[My guides](/docs/pages/myguides.md)
+- [License](/docs/license.md)
+
+- [Source Code](https://github.com/DardelHMB/dardelhmb.github.io)
+
+- [Contact](/docs/contact.html)
