@@ -14,4 +14,4 @@ In this case, the hex number is `036B`, so in a modulo calculator, input `b=` as
 Thanks to Lazr for telling me how to do this, I would not have figured this out on my own lmao
 
 
-Continue to [Looking for problems from the latest log](/docs/problemfinding.md)
+Continue to [Looking for problems from the latest log](/docs/guides/UDPIHTroubleshooting/docs/problemfinding.md)
