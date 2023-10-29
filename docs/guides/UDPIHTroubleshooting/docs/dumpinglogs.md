@@ -11,4 +11,4 @@ After booting into recovery_menu, select, `Dump Syslogs`, or, if you're navigati
 
 There will be around 100 logs in `logs`. We now need to figure out which one is the latest as they are not in order (and I highly doubt you want to go through ALL 100 logs)
 
-Continue to [Determining the latest log](/docs/findinglogs.md)
+Continue to [Determining the latest log](/docs/guides/UDPIHTroubleshooting/docs/findinglogs.md)
